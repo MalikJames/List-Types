@@ -1,0 +1,21 @@
+.A {list-style-type: square;
+}
+
+.B{list-style-type: disc;
+}
+
+.C{list-style-type: circle;
+}
+
+.#tv{list-style-type: upper-roman;
+}
+
+#Lorem {
+    list-style-types circles;
+    list-style-position: inside;
+}
+
+#Friends{
+    list-styles-image: url(https://i.ibb.co/4PGh5HQ/green-bullet.png)
+    list-style-position outside;
+}
